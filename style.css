@@ -22,6 +22,10 @@
     text-transform: uppercase;
     color: #2D2C2A;
   }
+
+  .cor {
+    color: #ffe57e00;
+  }
   
   h2 {
     color: white;
